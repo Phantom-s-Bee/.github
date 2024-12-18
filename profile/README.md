@@ -4,8 +4,8 @@ A Phantom's Bee é o grupo de robótica, engenharia e computação da Universida
 
 
 ## Lista de Recursos
-* (Git)[https://git-scm.com/downloads]
-* (VSCode IDE)[https://code.visualstudio.com/Download]
-* (Arduino IDE)[https://www.arduino.cc/en/software]
-* (Fusion360)[https://www.autodesk.com/education/edu-software/overview#]
+* [Git](https://git-scm.com/downloads)
+* [VSCode IDE](https://code.visualstudio.com/Download)
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [Fusion360](https://www.autodesk.com/education/edu-software/overview#)
 
