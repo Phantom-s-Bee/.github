@@ -1,12 +1,11 @@
-## Hi there 👋
+# Organização Phantom's Bee
 
-<!--
+A Phantom's Bee é o grupo de robótica, engenharia e computação da Universidade Veiga de Almeida, focado no desenvolvimento de soluções inovadoras. Aqui, você encontrará todos os códigos e recursos relacionados aos nossos projetos.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Lista de Recursos
+* (Git)[https://git-scm.com/downloads]
+* (VSCode IDE)[https://code.visualstudio.com/Download]
+* (Arduino IDE)[https://www.arduino.cc/en/software]
+* (Fusion360)[https://www.autodesk.com/education/edu-software/overview#]
+
